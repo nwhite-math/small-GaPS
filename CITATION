@@ -1,0 +1,16 @@
+To cite small-GaPS in publications, please use:
+
+Nicholas C. White, Sandra M. Troian., Jeffrey B. Jewell, Curt J. Cutler, Sheng-wey Chiow, and Nan Yu, "Robust numerical computation of the 3D scalar potential field of the cubic Galileon gravity model at solar system scales". arXiv:2003.02648 (2020)
+
+A BibTeX entry for LaTeX users is
+
+@misc{,
+  author = {White, Nicholas C. and Troian, Sandra M. and Jewell, Jeffrey B. and Cutler, Curt J. and Chiow, Sheng-wey and Yu, Nan},
+  howpublished = {Robust numerical computation of the 3D scalar potential field of the cubic Galileon gravity model at solar system scales},
+  year = {2020},
+  archivePrefix = {arXiv},
+  eprint = {2003.02648},
+  url {https://github.com/nwhite-math/small-GaPS},
+}
+
+Please note that this citation will be updated upon publication.
