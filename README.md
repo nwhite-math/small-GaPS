@@ -1,6 +1,6 @@
 # Small-scale cubic Galileon Potential Solver (small-GaPS)
 
-Open source code accompanying the article _Robust numerical computation of the 3D scalar potential field of the cubic Galileon gravity model at solar system scales_ by Nicholas C. White, Sandra M. Troian, Jeffrey B. Jewell, Curt J. Cutler, Sheng-wey Chiow, and Nan Yu. [https://arxiv.org/abs/2003.02648](https://arxiv.org/abs/2003.02648). For details on the motivation and design of the code, please see that paper.
+Open source code accompanying the article _Robust numerical computation of the 3D scalar potential field of the cubic Galileon gravity model at solar system scales_ by Nicholas C. White, Sandra M. Troian, Jeffrey B. Jewell, Curt J. Cutler, Sheng-wey Chiow, and Nan Yu, Phys. Rev. D 102, 024033 (2020). For details on the motivation and design of the code, please see that paper at [https://link.aps.org/doi/10.1103/PhysRevD.102.024033](https://link.aps.org/doi/10.1103/PhysRevD.102.024033) (the [preprint](https://arxiv.org/abs/2003.02648) is also available on arXiv).
 
 ## Use
 Instructions for use can be found in [the reference manual](reference_manual.pdf).
@@ -15,6 +15,4 @@ This work uses the Apache 2.0 License (see LICENSE file). This is a very permiss
 
 If you use the code for an academic publication, please cite the original article as described in the CITATION file:
 
-Nicholas C. White, Sandra M. Troian, Jeffrey B. Jewell, Curt J. Cutler, Sheng-wey Chiow, and Nan Yu, "Robust numerical computation of the 3D scalar potential field of the cubic Galileon gravity model at solar system scales". arXiv:2003.02648 (2020).
-
-Note that this citation will be updated upon journal publication of the article.
+Nicholas C. White, Sandra M. Troian., Jeffrey B. Jewell, Curt J. Cutler, Sheng-wey Chiow, and Nan Yu, "Robust numerical computation of the 3D scalar potential field of the cubic Galileon gravity model at solar system scales," Phys. Rev. D 102, 024033 (2020)
